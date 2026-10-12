@@ -74,14 +74,6 @@
       "path": "overlay/usr/lib/NetworkManager/system-connections/Hotspot.nmconnection",
       "source_sha256": "3ab9ec0c4368c830ebb49c640274c2fd6f00d2177736cbf80ecfe94f7e63f526"
     },
-    "rootfs/overlay/usr/share/alsa/ucm2/conf.d/sprdphone-sc273/sprdphone-sc2730.conf": {
-      "path": "overlay/usr/share/alsa/ucm2/conf.d/sprdphone-sc273/sprdphone-sc2730.conf",
-      "source_sha256": "d8b524e62d4656c7574b2da5a2016348295d3e2fe4028c7d548ec9fa170ac3a9"
-    },
-    "rootfs/overlay/usr/share/alsa/ucm2/sprdphone-sc273/HiFi.conf": {
-      "path": "overlay/usr/share/alsa/ucm2/sprdphone-sc273/HiFi.conf",
-      "source_sha256": "5b2f3af71651d0d876fa81a869c9da213a200bdf1260ab68484442603ad25596"
-    },
     "rootfs/overlay/usr/share/wayland-sessions/phosh.desktop": {
       "path": "overlay/usr/share/wayland-sessions/phosh.desktop",
       "source_sha256": "04fdb606c833193041d7e8a2f75c8e373ba5d98df756bd35a5fb5dcdd7861687"
